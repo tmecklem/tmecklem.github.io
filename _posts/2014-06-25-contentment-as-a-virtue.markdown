@@ -11,4 +11,4 @@ I'm pressured by clever advertising and other people to be unhappy with my phone
 
 It's not that pursuing any of these things is wrong. They just can't be the definition of satisfaction. The intrinsic value of contentment lies in choosing to be at peace in all circumstances, even if a true need goes unfulfilled.
 
-So here's the top item on my one, five, ten, and twenty year plans (if God grants me those years): I choose to be content.
+So here's a prominent item on my one, five, ten, and twenty year plans (if God grants me those years): I choose to be content.
