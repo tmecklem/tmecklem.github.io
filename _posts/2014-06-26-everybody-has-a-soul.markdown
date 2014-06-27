@@ -9,6 +9,6 @@ I'm an expert at villainizing the motives of people who hurt me. In zero seconds
 
 To reconcile the relationship, I have to back out of the scene I've created. I have to convince myself that it's possible they had good intentions and just made a mistake (the same kind of mistake I make hundreds of times per day). Maybe by the end of the day I've come full circle. Hopefully I've remembered that behind good or bad intentions lies another eternal soul. They're worthy of more respect than I've given, and now I'm the scoundrel who has committed the injustice. 
 
-It's a lot easier to assume good intent and get burned once in a while. It wears less on the soul.
+It's a lot healthier to assume good intent and get burned once in a while. It wears less on the soul.
 
 Thank God for fresh starts and forgiveness.
