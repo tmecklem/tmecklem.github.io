@@ -1,0 +1,83 @@
+==================================================================
+https://keybase.io/timmecklem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://timothy.mecklem.com
+  * I am timmecklem (https://keybase.io/timmecklem) on keybase.
+  * I have a public key with fingerprint BF45 7217 BA9E 2F1A ACD6  557E 0589 7F96 58EA 4DE1
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "bf457217ba9e2f1aacd6557e05897f9658ea4de1",
+            "host": "keybase.io",
+            "key_id": "05897F9658EA4DE1",
+            "uid": "27141c1c0853580217ef921af4ea4e00",
+            "username": "timmecklem"
+        },
+        "merkle_root": {
+            "ctime": 1416062853,
+            "hash": "e432f52987621a74f41baee017b96e4ba2aadfbbe37f6f4726bc6970db1e81fcffc2a5ab217b36f41307fb63f03a9a1daba09ef845ceec9cca45e303716561d4",
+            "seqno": 95774
+        },
+        "service": {
+            "hostname": "timothy.mecklem.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1416063336,
+    "expire_in": 157680000,
+    "prev": "f08f0a3357d7d8955bab34877bbbe4b83d47ec2535ea1764cd01e0075d43c939",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFVkntQFVUcxy8+A+M5WZo3gqVhhgve2fcDLIcMGSDSjGEcbYSzu2e5q9y7l70X
+lJDABkxRLAMrEGiaGIUCGx8giA72gCYvAQKBSOJtegglMD10pkLsLENj7l9n53x+
+3+/v+/udt/0Xm/x8Lrdci5ACzoz5eCZFU1qWaivARE3Ox2ILMClbhQ63cXIAO8Ri
+sV0wXwQuaFW1MIcmQ+tOV9gCE4PlQd2lag5E4VbOSmKFMQZuFCuqIwvqTl01tDBR
+oRmOJDgRCJBUCAAkmWUYDuIML3CKwDI8BLQMCSRp01zuh1yxec0MVTZcDH6jwSfE
+0y8kGHzu/AXJETQhERLOMxTD48gKKgJJAIVGwhDHDdAF9YVIbtVuh9KubGg3OrZD
+HR0zdE2bjy2hWwQhPRZnSaSHegIuGyqDNEUqDCnwHIukOVqhCRFAiKNcAgtpEZAA
+yIooQopTWIXmSFaUWIHDZZGAPKFIiiKRgAGiMQgKAQSFc4rIUgpOAQEQMhABLkCF
+pxkJQkmQJEAzkMIpjmAZlpBpFMIFcxwaFiswHEcXGr96nipBo21jbg/iaW5bvnUh
+o1XS7KjUqWtuTdKyEWBzu52xRnR3vrPVqNgNxYwFrQxRdchoef/fLoHQh8ZCURQb
+g8E9TlWHGapBMBzL4+gzfGAeklRwXsEBRTGczMm8wDAiECma5zgRDYgWeUqmOSiR
+aF0QEBxLSzJOoEVxjExTkkAJD8KSyMoNspCmS81yAHeuDrHCg4vMS0w+fqZlSxcZ
+79fk5xv036NuMgXeC6mbbgj//cDdmtQTYXRa9Q3w3ApPlDn39fdmqYDsCntvHp15
+0hn/56raZTHeY4F5wYV33/m24pTXY9Faq+w13/cODp0+9/dMa0yUvv7ZyPTGmdOl
+ayO9oV8+83TXli2RRcdnLuYvbypI3tx8+Z+ZnFcznHQWVbs+uMf5xKrdU7buEdg1
+sPONyDsXOqs+He4t8tmQXFbWHi1YPCVDZHrxcOBLOT/2pSxpv9cy2vboV72nKpea
+zxVfibZ917BpWhzEWt46W/eiZ2r7DnX2tQTd/45cnv/8zDdtP1ThK/tvBglD4fbz
+gv2vlIHI2RSMWj39SfVTaQ37u8dP1NZuuxnhzSQt3rPLy3K/Lkn0hJZRvnVrqv0v
+zLX7D0w97jdS1HIkMWrANvzbSsfeoT9Sh2Z/8VWtSR5bUfNYU0jgjeZfb23tuSjN
+BriObhwJD6iuP7RPhD+FVlaUvtzY09/BUMDzfktSeXF5Yk19x3U87shjeMdk6/im
+xbzLvHbDgeAPrw7WniGYkNRjn+9IZS995m+ZcK6+FXHy2s+3I65azIfj13V4zelD
+CZaPNk/0OjM74yq6S0YO9Y+a1rBBH/dfH9u359IrI6O1e+O6bFWt+7dbJleUfjFN
+bE3i+67k6W/yx/ueVAdvHzzfpa/zjh/EG7Ml/+TOdytbP4i+bz+qzKlK2yMT5npi
+jmjadv9f
+=ruZB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/timmecklem
+
+==================================================================
+
