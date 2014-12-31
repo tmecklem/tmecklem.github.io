@@ -3,9 +3,9 @@ title: Reck Meck
 #email: tim.othy@mecklem.com
 description: ""
 baseurl: ""
-url: "http://tmecklem.github.io"
+url: "http://timothy.mecklem.com"
 username: "tmecklem"
-twitter_username: "tim_mecklem"
+# twitter_username: ""
 
 # Build settings
 markdown: kramdown
