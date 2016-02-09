@@ -1,11 +1,11 @@
 # Site settings
-title: Reck Meck
+title: Tim Mecklem
 #email: tim.othy@mecklem.com
 description: ""
 baseurl: ""
 url: "http://timothy.mecklem.com"
 username: "tmecklem"
-# twitter_username: ""
+twitter_username: "tim_mecklem"
 
 # Build settings
 markdown: kramdown
