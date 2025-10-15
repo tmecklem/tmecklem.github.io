@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Cursor has gotten markedly worse in the last few days. Way more thinking without better results, interrupting itself to make minor course adjustments but now harder to interrupt for major ones, much slower as context builds, and way more code for only a slight bump in quality. And it’s burning through money faster (maybe double the rate from my perception?)"
+title: "Cursor has gotten markedly worse in the last few days. Way more thinking without better results, interrupting itself to make minor course adjustments but now harder to interrupt for major ones, much slower as context builds, and way more code for only a slight bump in quality. And it's burning through money faster (maybe double the rate from my perception?)"
 date: 2025-07-14 12:37:31
-categories: nibbles
+categories: hot-takes
 ---
 
 Cursor has gotten markedly worse in the last few days. Way more thinking without better results, interrupting itself to make minor course adjustments but now harder to interrupt for major ones, much slower as context builds, and way more code for only a slight bump in quality. And it’s burning through money faster (maybe double the rate from my perception?)

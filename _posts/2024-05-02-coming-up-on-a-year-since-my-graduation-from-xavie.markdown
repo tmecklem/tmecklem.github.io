@@ -2,7 +2,7 @@
 layout: post
 title: "Coming up on a year since my graduation from Xavier with an MBA, here's some takeaways:"
 date: 2024-05-02 16:05:50
-categories: nibbles
+categories: longform
 ---
 
 Coming up on a year since my graduation from Xavier with an MBA, here's some takeaways:

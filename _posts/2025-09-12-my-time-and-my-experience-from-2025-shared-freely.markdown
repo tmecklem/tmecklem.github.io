@@ -2,7 +2,7 @@
 layout: post
 title: "My time and my experience from 2025, shared freely with you."
 date: 2025-09-12 17:21:50
-categories: nibbles
+categories: longform
 ---
 
 My time and my experience from 2025, shared freely with you.

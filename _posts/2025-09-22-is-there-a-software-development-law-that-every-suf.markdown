@@ -2,7 +2,7 @@
 layout: post
 title: "Is there a software development law that every sufficiently developed and used software will invariably violate the fundamental assumptions on which its core was built?"
 date: 2025-09-22 15:58:37
-categories: nibbles
+categories: hot-takes
 ---
 
 Is there a software development law that every sufficiently developed and used software will invariably violate the fundamental assumptions on which its core was built?

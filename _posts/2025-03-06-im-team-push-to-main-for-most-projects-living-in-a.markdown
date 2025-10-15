@@ -2,7 +2,7 @@
 layout: post
 title: "I'm Team Push-to-main (for most projects), living in a world of PRs."
 date: 2025-03-06 03:21:29
-categories: nibbles
+categories: hot-takes
 ---
 
 I'm Team Push-to-main (for most projects), living in a world of PRs.
