@@ -1,2 +1,9 @@
 _site
 .DS_Store
+node_modules
+css/output.css
+.jekyll-cache
+.sass-cache
+Gemfile.lock
+package-lock.json
+.playwright-mcp/

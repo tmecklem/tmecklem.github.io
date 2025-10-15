@@ -1,12 +1,29 @@
 # Site settings
 title: Tim Mecklem
-#email: tim.othy@mecklem.com
-description: ""
+description: "Managing Partner at Launch Scout | Software Engineering Leader | Elixir & Phoenix Enthusiast"
 baseurl: ""
-url: "http://timothy.mecklem.com"
-username: "tmecklem"
-twitter_username: "tim_mecklem"
+url: "https://timothy.mecklem.com"
+author:
+  name: Tim Mecklem
+  email: heytim@mecklem.com
+  email_encoded: aGV5dGltQG1lY2tsZW0uY29t  # Base64 encoded
+  x: tim_mecklem
+  github: tmecklem
+  linkedin: timothymecklem
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Exclude from processing
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - postcss.config.js
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "*.csv"
+  - import_linkedin_posts.rb

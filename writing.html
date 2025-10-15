@@ -1,0 +1,103 @@
+---
+layout: page
+title: Writing
+permalink: /writing/
+---
+
+<div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+
+  <div class="mb-12">
+    <h1 class="text-4xl font-bold mb-4" style="color: var(--color-text);">All Writing</h1>
+    <p class="text-xl" style="color: var(--color-secondary);">
+      Thoughts on software engineering, Elixir, team leadership, and AI tools.
+    </p>
+  </div>
+
+  <!-- Filter Tabs -->
+  <div class="mb-8" style="border-bottom: 1px solid var(--color-border);">
+    <nav class="flex space-x-8" aria-label="Filter posts">
+      <button data-filter="all" class="filter-tab active border-b-2 py-4 px-1 text-sm font-medium" style="border-color: var(--color-primary); color: var(--color-primary);">
+        All Posts
+      </button>
+      <button data-filter="nibbles" class="filter-tab border-b-2 border-transparent py-4 px-1 text-sm font-medium" style="color: var(--color-secondary);" onmouseover="this.style.color='var(--color-text)'; this.style.borderColor='var(--color-border)'" onmouseout="this.style.color='var(--color-secondary)'; this.style.borderColor='transparent'">
+        Nibbles
+      </button>
+      <button data-filter="longform" class="filter-tab border-b-2 border-transparent py-4 px-1 text-sm font-medium" style="color: var(--color-secondary);" onmouseover="this.style.color='var(--color-text)'; this.style.borderColor='var(--color-border)'" onmouseout="this.style.color='var(--color-secondary)'; this.style.borderColor='transparent'">
+        Long-form
+      </button>
+      <button data-filter="hottakes" class="filter-tab border-b-2 border-transparent py-4 px-1 text-sm font-medium" style="color: var(--color-secondary);" onmouseover="this.style.color='var(--color-text)'; this.style.borderColor='var(--color-border)'" onmouseout="this.style.color='var(--color-secondary)'; this.style.borderColor='transparent'">
+        Hot Takes
+      </button>
+    </nav>
+  </div>
+
+  <!-- Posts Grid -->
+  <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+    {% for post in site.posts %}
+    <article class="post-card rounded-lg p-6 hover:shadow-lg transition" style="background-color: var(--color-card-bg); border: 1px solid var(--color-border);" data-categories="{{ post.categories | join: ' ' }}">
+      <div class="flex items-center gap-2 mb-3">
+        <time class="text-sm" style="color: var(--color-secondary);">{{ post.date | date: "%b %-d, %Y" }}</time>
+        {% if post.categories %}
+          {% for category in post.categories %}
+          <span class="category-badge category-{{ category }}">{{ category }}</span>
+          {% endfor %}
+        {% endif %}
+      </div>
+      <h3 class="text-xl font-semibold mb-3 line-clamp-2" style="color: var(--color-text);">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="transition" style="color: inherit;" onmouseover="this.style.color='var(--color-primary)'" onmouseout="this.style.color='inherit'">
+          {{ post.title }}
+        </a>
+      </h3>
+      {% if post.excerpt %}
+      <p class="line-clamp-3" style="color: var(--color-secondary);">{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      {% endif %}
+    </article>
+    {% endfor %}
+  </div>
+
+  <div id="no-results" class="hidden text-center py-12">
+    <p class="text-lg" style="color: var(--color-secondary);">No posts found in this category.</p>
+  </div>
+
+</div>
+
+<script>
+  const filterTabs = document.querySelectorAll('.filter-tab');
+  const postCards = document.querySelectorAll('.post-card');
+  const noResults = document.getElementById('no-results');
+
+  filterTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      const filter = tab.dataset.filter;
+
+      // Update active tab
+      filterTabs.forEach(t => {
+        t.classList.remove('active');
+        t.style.borderColor = 'transparent';
+        t.style.color = 'var(--color-secondary)';
+      });
+      tab.classList.add('active');
+      tab.style.borderColor = 'var(--color-primary)';
+      tab.style.color = 'var(--color-primary)';
+
+      // Filter posts
+      let visibleCount = 0;
+      postCards.forEach(card => {
+        const categories = card.dataset.categories;
+        if (filter === 'all' || categories.includes(filter)) {
+          card.style.display = 'block';
+          visibleCount++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      // Show/hide no results message
+      if (visibleCount === 0) {
+        noResults.classList.remove('hidden');
+      } else {
+        noResults.classList.add('hidden');
+      }
+    });
+  });
+</script>

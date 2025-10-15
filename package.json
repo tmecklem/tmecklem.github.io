@@ -1,0 +1,18 @@
+{
+  "name": "tmecklem-github-io",
+  "version": "1.0.0",
+  "description": "Personal site for Tim Mecklem",
+  "scripts": {
+    "build:css": "npx tailwindcss -i ./css/main.css -o ./css/output.css --minify",
+    "watch:css": "npx tailwindcss -i ./css/main.css -o ./css/output.css --watch",
+    "build": "npm run build:css && bundle exec jekyll build",
+    "serve": "concurrently \"npm run watch:css\" \"bundle exec jekyll serve\""
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1",
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "concurrently": "^8.2.2"
+  }
+}
