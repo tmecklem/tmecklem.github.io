@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'll be in Columbus mid-January to speak at the #ruby meetup about real-time apps. Any of my friends here have office space for me to work out of for the day on Monday the 16th from mid-morning on?"
+title: "Columbus Ruby Meetup"
 date: 2022-12-16 19:50:21
 categories: nibbles
 ---

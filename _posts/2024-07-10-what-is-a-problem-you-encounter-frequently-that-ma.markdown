@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is a problem you encounter frequently that makes you think, “this should be easy, why is it so hard that nobody has solved it yet?”"
+title: "Unsolved Easy Problems"
 date: 2024-07-10 17:06:56
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If you want a pick-me-up and to have hope for the future of the field of software engineering, go watch a Kimberly Erni talk. There's so much optimism and energy and hope in her talks."
+title: "Kimberly Erni's Inspiring Talks"
 date: 2023-05-19 23:22:15
 categories: nibbles
 ---

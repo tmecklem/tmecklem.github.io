@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Today I attended the final session for Leadership Council for Nonprofits BOLD 19 cohort. It’s been a very informative and helpful training program for me. Thank you to the Leadership Council, Jay Shatz, and my fellow participants for the opportunity!"
+title: "BOLD 19 Leadership Program Complete"
 date: 2024-09-26 18:37:33
 categories: nibbles
 ---

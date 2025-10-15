@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is your favorite way to learn and connect about technical things? I've been thinking about my own habits recently, and I realized that while I still prefer to read long form articles, I've gotten more accustomed to short videos as well."
+title: "Learning Preferences for Technical Content"
 date: 2025-01-07 14:38:43
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "For me, two of the biggest things that have converged and shaped me as a developer: learning to ship everything I do in the smallest form possible iteratively, and being more stubborn than the software."
+title: "Iterative Shipping and Stubbornness"
 date: 2024-12-09 14:35:57
 categories: nibbles
 ---

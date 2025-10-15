@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I have been trying out some of the newer local, targeted LLM models to see what the state of the art in \"offline AI\" looks like. Anyone else in my network doing this? Results are pretty encouraging, and now I want to know what I don't know about pushing it further. Please share your expertise with me!"
+title: "Exploring Local LLM Models"
 date: 2025-05-28 14:23:41
 categories: nibbles
 ---

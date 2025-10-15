@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Several of my dear friends and colleagues talking about a really important topic. What more could I ask for?!"
+title: "Friends Discussing Important Topics"
 date: 2023-01-05 22:33:03
 categories: nibbles
 ---

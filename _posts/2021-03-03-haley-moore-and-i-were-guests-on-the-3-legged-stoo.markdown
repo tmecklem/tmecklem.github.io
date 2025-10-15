@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haley Moore and I were guests on the 3 Legged Stool Podcast! As usual with any conversation I have with Haley, I left reinvigorated. It reminded me why I'm so happy to work with the team at Gaslight and how it's such an honor working alongside Haley in my role."
+title: "3 Legged Stool Podcast"
 date: 2021-03-03 21:59:19
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hot take: I'm hopeful about the inevitable "yeah, but should we?" conversations (See Randall Thomas' Lonestar Elixir 2020 talk by the same name) about chatgpt. As someone seeking more authentic conversations, I respect the work in this field but I'm not excited about the future of talking to bots pretending to be human (or engaging with posts written by AI and posted by people to their accounts)."
+title: "ChatGPT: Yeah, But Should We?"
 date: 2022-12-06 17:43:55
 categories: hot-takes
 ---

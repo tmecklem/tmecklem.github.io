@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apprenticeship changes careers and lives. I've had the pleasure of working with Zack post-apprenticeship, and his growth trajectory is apparent to anyone who spends more than a minute with him."
+title: "Apprenticeship Changes Lives"
 date: 2022-07-11 19:00:16
 categories: nibbles
 ---

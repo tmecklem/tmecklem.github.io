@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feeling a little left behind with all the hyped or deeply-technical AI posts on here? I wrote an article for you: https://lnkd.in/gxPrDWqQ"
+title: "Pragmatic AI Approach Article"
 date: 2025-01-22 16:32:36
 categories: nibbles
 ---

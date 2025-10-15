@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The goal... was to make the industry better.\" I love Rob Tarr's words and Sparkbox's actions around their apprenticeship program. I've got a lot respect for what you've built, Sparkbox!"
+title: "Sparkbox Apprenticeship Program"
 date: 2022-11-22 16:32:42
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I don't often talk publicly about my thoughts around leadership. Here's something that's been on my mind recently as I get ready to graduate in a few weeks."
+title: "Leadership Without Manipulation"
 date: 2023-04-27 15:40:31
 categories: nibbles
 ---

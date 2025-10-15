@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is that a plant growing out of my plate? Am I getting ready to fight someone? Pretending to have a Lego minifig hand?"
+title: "Party Photos"
 date: 2022-12-08 14:52:51
 categories: nibbles
 ---

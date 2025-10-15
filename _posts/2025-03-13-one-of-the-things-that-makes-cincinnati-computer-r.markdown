@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One of the things that makes Cincinnati Computer Reuse special to me is being able to find an esoteric piece of hardware, buy it, get it home only to realize it has a broken capacitor, and then find out that I have the exact capacitor I need already in my toolbox. 15 minutes of fun soldering later, and I’ve got an old PCI firewire card working again for a project you’ll hear about from me soon. The equivalent card at Micro Center is 40 bucks if you can find it. I paid a fraction of that and saved this from an alternate and way less interesting future."
+title: "Cincinnati Computer Reuse Finds"
 date: 2025-03-13 02:29:34
 categories: nibbles
 ---

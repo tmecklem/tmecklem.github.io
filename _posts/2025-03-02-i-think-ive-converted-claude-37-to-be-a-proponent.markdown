@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I think I've converted Claude 3.7 to be a proponent of TDD."
+title: "Converting Claude to TDD"
 date: 2025-03-02 20:22:02
 categories: nibbles
 ---

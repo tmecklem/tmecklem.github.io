@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My family moved into a new house (actually we bought my parents' house) last year. When we did that we also got a large, inground pool! I've become much better at applied chemistry from this experience 😅."
+title: "Pool Chemistry and Team Balance"
 date: 2022-06-28 18:59:38
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I just joined the Erlang Ecosystem Foundation. Happy to support the ongoing efforts of that community and the BEAM community at large. https://erlef.org/"
+title: "Joining Erlang Ecosystem Foundation"
 date: 2023-01-04 16:20:10
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm Team Push-to-main (for most projects), living in a world of PRs."
+title: "Team Push-to-Main"
 date: 2025-03-06 03:21:29
 categories: hot-takes
 ---

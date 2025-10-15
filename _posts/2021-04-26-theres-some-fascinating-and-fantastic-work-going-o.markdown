@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "There’s some fascinating and fantastic work going on with machine learning and Elixir!"
+title: "Machine Learning and Elixir"
 date: 2021-04-26 01:05:09
 categories: nibbles
 ---

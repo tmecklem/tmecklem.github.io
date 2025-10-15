@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm planning to attend Gig City Elixir and taking as many people with me as I can! Stay tuned to Groxio for more details on this!"
+title: "Gig City Elixir Plans"
 date: 2022-11-10 19:30:22
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If you know me, you know that I like a challenge. You also know that I hate throwing away engineered products. I love the challenge of fixing them and giving them new life. I’ve soldered new capacitors on a TV, fixed this little Breville Barista Express (pictured) countless times and again today, soldered components on prototype boards to add functionality to existing stuff, and with our new house on 5 acres I’m picking up a deeper understanding of small engine repair (and employing a lot of applied physics to problems that are an order of magnitude larger than things we encountered at the old house)."
+title: "Fixing Things and Solving Challenges"
 date: 2022-06-15 01:54:26
 categories: nibbles
 ---

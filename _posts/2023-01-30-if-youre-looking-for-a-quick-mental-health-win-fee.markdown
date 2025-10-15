@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If you're looking for a quick mental health win, feel free to add this to your greasemonkey-style script for LinkedIn (it hides LinkedIn News, which seems custom-designed to make you feel worse):"
+title: "Hide LinkedIn News Script"
 date: 2023-01-30 17:34:59
 categories: nibbles
 ---

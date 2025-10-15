@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "As a colleague and I were talking on Friday about an important architectural decision that was upcoming, we felt the typical pressure to make the *right* decision about it, *right* now. But there were two key components of the decision that helped us to pick an alternative lower-pressure path. One, the decision wasn't urgently needed. It's important, but not urgent. Two, it's fundamental to the application we're building, but there's a prototypical solution that we found that would unblock the team while still allowing us flexibility in the solution to replace it with something better later."
+title: "Last Responsible Moment"
 date: 2022-08-01 13:48:28
 categories: nibbles
 ---

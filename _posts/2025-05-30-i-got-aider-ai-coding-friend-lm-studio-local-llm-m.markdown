@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I got Aider (AI coding friend), LM Studio (local llm manager/interface), and devstral small (a small, self-hostable coding aware LLM) running on my dual RTX 3090 (honkin GPU) machine. The results of running a local model and coding assistant are really interesting."
+title: "Aider and Local LLMs"
 date: 2025-05-30 13:39:09
 categories: nibbles
 ---

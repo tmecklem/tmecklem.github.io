@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "* If you're using generative AI tools to write software
-* and you're not including automated tests with good coverage for new features in your codebase,
-* then you're creating an absolute monster of technical debt."
+title: "AI Without Tests Creates Tech Debt"
 date: 2025-02-28 20:41:36
 categories: nibbles
 ---

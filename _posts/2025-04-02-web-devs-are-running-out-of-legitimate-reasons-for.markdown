@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Web devs are running out of legitimate reasons for why there isn't a comprehensive and automated test suite in the app that trigger on every PR... 😅"
+title: "94% Test Coverage with LLMs"
 date: 2025-04-02 15:38:09
 categories: nibbles
 ---

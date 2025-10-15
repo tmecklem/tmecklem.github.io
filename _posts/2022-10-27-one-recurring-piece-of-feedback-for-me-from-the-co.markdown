@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One recurring piece of feedback for me from the conference talk on designing real-time web apps was \"show me the code\". The talk is focused on empathy, ux, team composition, and architectural choices. But I'm a software dev at heart, and I hear that loud and clear and want to turn the talk into a conversation. Would you prefer:"
+title: "Show Me the Code"
 date: 2022-10-27 18:24:48
 categories: nibbles
 ---

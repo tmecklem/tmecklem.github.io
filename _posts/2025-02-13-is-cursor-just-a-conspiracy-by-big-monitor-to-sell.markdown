@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Cursor just a conspiracy by Big Monitor to sell more ultrawides?"
+title: "Cursor and Ultrawide Monitors"
 date: 2025-02-13 15:46:40
 categories: hot-takes
 ---

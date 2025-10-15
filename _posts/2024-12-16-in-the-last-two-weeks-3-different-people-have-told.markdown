@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In the last two weeks, 3 different people have told me about some crazy-sophisticated things they're doing with Excel and some glue code. What is the craziest thing you've done with a spreadsheet that pushed you (or Excel) to the limits?"
+title: "Excel Power User Stories"
 date: 2024-12-16 13:19:17
 categories: nibbles
 ---

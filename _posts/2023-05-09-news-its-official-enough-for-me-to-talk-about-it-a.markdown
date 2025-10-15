@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "News! It's official enough for me to talk about it at this point:"
+title: "MBA Graduation"
 date: 2023-05-09 15:08:28
 categories: nibbles
 ---

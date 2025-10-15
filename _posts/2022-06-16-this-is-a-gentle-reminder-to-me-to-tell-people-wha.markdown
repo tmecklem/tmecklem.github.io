@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This is a gentle reminder to me to tell people what I’m constantly thinking but not often sharing out loud. Thank you, Joe."
+title: "Sharing Gratitude More Often"
 date: 2022-06-16 03:01:08
 categories: nibbles
 ---

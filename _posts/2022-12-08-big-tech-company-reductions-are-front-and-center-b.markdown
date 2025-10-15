@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Big tech company reductions are front-and-center. But alongside cost and spending controls during challenging economic times, companies and individuals also have opportunities to look to research, development, and innovation as a path through difficult times."
+title: "Innovation Through Difficult Times"
 date: 2022-12-08 17:53:27
 categories: nibbles
 ---

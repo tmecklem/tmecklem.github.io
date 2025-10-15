@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coming up on a year since my graduation from Xavier with an MBA, here's some takeaways:"
+title: "MBA Year One Reflections"
 date: 2024-05-02 16:05:50
 categories: longform
 ---

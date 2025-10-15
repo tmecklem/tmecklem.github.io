@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm at #MomentumDevCon! Who do I just *need* to see here today?"
+title: "MomentumDevCon 2024"
 date: 2024-10-17 13:42:57
 categories: nibbles
 ---

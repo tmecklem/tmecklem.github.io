@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interesting parallels between the focus on agentic AI and how the BEAM works."
+title: "Agentic AI and BEAM Parallels"
 date: 2025-02-08 02:58:24
 categories: nibbles
 ---

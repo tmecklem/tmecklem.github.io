@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Requesting a test subject! Do you have a problem in your daily work that you wish was solved (and you believe could be solved with the right software?)"
+title: "Project Discovery Experiment"
 date: 2024-12-10 18:59:38
 categories: nibbles
 ---

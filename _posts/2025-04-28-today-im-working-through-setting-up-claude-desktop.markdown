@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Today I'm working through setting up Claude Desktop to use an MCP Server to control a browser and pull information real-time from some of the internal tools that Launch Scout uses. It's likely to save a ton of time."
+title: "Claude Desktop MCP Server Setup"
 date: 2025-04-28 15:49:20
 categories: nibbles
 ---

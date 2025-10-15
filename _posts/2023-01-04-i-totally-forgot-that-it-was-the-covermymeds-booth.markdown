@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I totally forgot that it was the CoverMyMeds booth that I won a drone from at #codemash like 8-ish years ago. I repaired some things on it over the break and my son and I played with it outside for a while again. What a fun gift that's weathered the years."
+title: "CodeMash Drone Memory"
 date: 2023-01-04 18:49:09
 categories: nibbles
 ---

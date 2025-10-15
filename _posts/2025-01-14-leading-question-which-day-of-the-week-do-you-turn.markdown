@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leading question 😜: which day of the week do you turn off all your AI buddies to exercise your brain/tech muscles to counteract the brain rot that happens from relying on them too much?"
+title: "AI-Free Day of the Week"
 date: 2025-01-14 22:45:43
 categories: nibbles
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Launch Scout traditionally has a pairing culture. We value high bandwidth collaboration and all the learning and fulfillment that comes along with it."
+title: "Pairing Culture with AI"
 date: 2025-06-03 12:53:11
 categories: nibbles
 ---

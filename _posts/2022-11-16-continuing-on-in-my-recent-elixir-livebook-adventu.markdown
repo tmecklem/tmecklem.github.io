@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Continuing on in my recent Elixir #livebook adventures... I used #Nx linear algebra functions to solve a system of equations to find the equilibrium point in an economics supply and demand problem in the same class."
+title: "Livebook Linear Algebra Adventures"
 date: 2022-11-16 17:59:09
 categories: nibbles
 ---

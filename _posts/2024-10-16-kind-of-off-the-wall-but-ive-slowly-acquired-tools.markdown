@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kind of off-the-wall, but I've slowly acquired tools to archive data off old media (5.25\" and 3.5\" floppies using a flux reader, audio cassette tapes, VHS and Beta tapes, and film negatives/prints). I'm mostly archiving dad's sermons, family photos, and historical family documents. Digital archiving is a fun, sometimes-tedious and sometimes-relaxing hobby."
+title: "Digital Archiving Hobby"
 date: 2024-10-16 17:11:18
 categories: nibbles
 ---

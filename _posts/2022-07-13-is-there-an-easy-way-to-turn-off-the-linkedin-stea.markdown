@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is there an easy way to turn off the LinkedIn steady drip of doom and gloom news? It feels like LinkedIn wants me to become a pessimist, but there’s too much opportunity for that kind of an outlook to take hold."
+title: "LinkedIn Doom and Gloom"
 date: 2022-07-13 14:57:26
 categories: nibbles
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "Here's a simple and super effective approach that only took a couple of weeks to initially implement and is helping me today to understand the metrics that matter to Launch Scout:
-* we built a tiny, custom ETL app (in Elixir of course!) that pulls in and denormalizes data from various, disparate tools/services that we use, and
-* we pointed Metabase on the resulting integrated database."
+title: "Simple Custom ETL for Business Intelligence"
 date: 2025-02-13 18:24:10
 categories: longform
 ---

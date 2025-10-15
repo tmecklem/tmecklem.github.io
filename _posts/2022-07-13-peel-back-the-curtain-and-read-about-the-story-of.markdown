@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peel back the curtain and read about the story of our rebrand! A ton of work went into this, and the design team did a great job carrying the effort forward!"
+title: "Rebrand Story"
 date: 2022-07-13 20:39:36
 categories: nibbles
 ---
