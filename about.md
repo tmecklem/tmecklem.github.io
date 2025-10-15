@@ -10,18 +10,17 @@ permalink: /about/
   <div class="mb-12">
     <h1 class="text-4xl font-bold mb-4" style="color: var(--color-text);">About Me</h1>
     <p class="text-xl" style="color: var(--color-secondary);">
-      Software engineering leader, Elixir enthusiast, and lifelong learner passionate about building great teams and solving complex problems.
+      Software engineering leader, Ruby and Elixir enthusiast, and lifelong learner passionate about building great teams and solving complex problems.
     </p>
   </div>
 
-  <!-- Current Role -->
+  <!-- Where I Work -->
   <section class="mb-12">
-    <h2 class="text-2xl font-bold mb-4" style="color: var(--color-text);">Current Role</h2>
+    <h2 class="text-2xl font-bold mb-4" style="color: var(--color-text);">Where I Work</h2>
     <div class="p-6 rounded-r-lg" style="background-color: var(--color-card-bg); border-left: 4px solid var(--color-primary);">
-      <h3 class="text-xl font-semibold mb-2" style="color: var(--color-text);">Managing Partner at Launch Scout</h3>
-      <p class="mb-2" style="color: var(--color-secondary);">January 2025 - Present</p>
+      <h3 class="text-xl font-semibold mb-2" style="color: var(--color-text);">Managing Partner at <a href="https://launchscout.com" target="_blank" rel="noopener" class="transition" style="color: var(--color-primary);" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">Launch Scout</a></h3>
       <p style="color: var(--color-secondary);">
-        Leading engineering teams and driving technical strategy at Launch Scout, where we build custom software solutions with a focus on Elixir, Phoenix, and modern web technologies.
+        Leading engineering teams and driving technical strategy at <a href="https://launchscout.com" target="_blank" rel="noopener" class="transition" style="color: var(--color-primary);" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">Launch Scout</a>, where we build custom software solutions with a focus on Ruby on Rails, Elixir, Phoenix, and modern web technologies.
       </p>
     </div>
   </section>
@@ -109,12 +108,9 @@ permalink: /about/
   <section class="mb-12">
     <h2 class="text-2xl font-bold mb-4" style="color: var(--color-text);">A Bit More About Me</h2>
     <div class="p-6 rounded-lg" style="background-color: var(--color-card-bg);">
-      <ul class="space-y-2" style="color: var(--color-secondary);">
-        <li>🎮 My first encounter with computers was playing Pac-Man as a child</li>
-        <li>⛸️ Childhood hobby: Playing Ping Pong on roller skates in a church basement with my sister</li>
-        <li>🔧 I love fixing things and giving engineered products new life - from soldering capacitors on TVs to small engine repair</li>
-        <li>💾 I archive old media (5.25" and 3.5" floppies, cassette tapes, VHS, Beta tapes, and film negatives) as a hobby</li>
-      </ul>
+      <p style="color: var(--color-secondary); line-height: 1.8;">
+        My first encounter with computers was playing Pac-Man as a child, and I've been fascinated by technology ever since. Outside of software, I love fixing things and giving engineered products new life—from soldering capacitors on TVs to small engine repair. I also archive old media as a hobby, preserving 5.25" and 3.5" floppies, cassette tapes, VHS, Beta tapes, and film negatives.
+      </p>
     </div>
   </section>
 
@@ -122,7 +118,7 @@ permalink: /about/
   <section class="text-center py-12 rounded-lg" style="background-color: var(--color-card-bg);">
     <h2 class="text-2xl font-bold mb-4" style="color: var(--color-text);">Let's Connect</h2>
     <p class="mb-6" style="color: var(--color-secondary);">
-      I'm always happy to chat about software engineering, Elixir, team leadership, or AI tools.
+      I'm always happy to chat about software engineering, Ruby, Elixir, team leadership, or AI tools.
     </p>
     <div class="flex flex-wrap justify-center gap-4">
       <a href="#" data-email="{{ site.author.email_encoded }}" class="inline-block px-6 py-3 text-white rounded-lg transition font-medium" style="background-color: var(--color-primary);" onmouseover="this.style.opacity='0.9'" onmouseout="this.style.opacity='1'">
