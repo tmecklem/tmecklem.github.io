@@ -1,0 +1,10 @@
+---
+layout: post
+title: "I'm trying one of the most optimistic AI-first mini projects I can think of. Visual layout of items on an x,y translated grid on top of an overlay, with bi-directional updating of the form fields to represent those objects. I move a thing on the visual editor, it updates the form fields. I update the form fields, it updates the preview UI. It's one of those things I know I can build, I know there are tools for already that you have to shoehorn your app into, and it has a ton of hidden complexity. Claude is struggling, but with a lot of nudges it's getting there in about a quarter of the time I would going it the traditional way, and it's fully integrated into the app I'm building instead of being an obviously bolted on library. (And of course we have tests and lots of edge case handling, because this is a production feature and not a prototype). This historically \"grindy\" feature is *almost* fun."
+date: 2025-09-01 18:12:35
+categories: nibbles
+---
+
+I'm trying one of the most optimistic AI-first mini projects I can think of. Visual layout of items on an x,y translated grid on top of an overlay, with bi-directional updating of the form fields to represent those objects. I move a thing on the visual editor, it updates the form fields. I update the form fields, it updates the preview UI. It's one of those things I know I can build, I know there are tools for already that you have to shoehorn your app into, and it has a ton of hidden complexity. Claude is struggling, but with a lot of nudges it's getting there in about a quarter of the time I would going it the traditional way, and it's fully integrated into the app I'm building instead of being an obviously bolted on library. (And of course we have tests and lots of edge case handling, because this is a production feature and not a prototype). This historically "grindy" feature is *almost* fun.
+
+[Original LinkedIn post](https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7368345041108410368)

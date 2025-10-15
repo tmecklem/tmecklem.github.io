@@ -1,0 +1,10 @@
+---
+layout: post
+title: "In addition to fear, one of the reasons I was slow to adopt AI tools is that it opens up a brand new frontier where ethical boundaries have not been fully established. The principles apply, but the practical application is still in flux. My MBA concentration was values-based leadership, and it’s an area of my professional career that I take seriously. Thanks to Professor Fiorelli and the Williams College of business at Xavier, I had the chance to study firsthand the devastation that ethical lapses in leadership can cause. This is a concern that I continue to have. It pains me to see AI used to further dark UX patterns, fraud, and scams. It’s also part of why you don’t see me hyping AI silver bullets on this platform. Instead, I talk in experiments and hypotheses and practical experience, because I don’t want to misrepresent myself or Launch Scout. Everyone in this industry is still figuring this out. Anyone who tells you otherwise deserves some extra scrutiny."
+date: 2025-06-16 21:28:52
+categories: nibbles
+---
+
+In addition to fear, one of the reasons I was slow to adopt AI tools is that it opens up a brand new frontier where ethical boundaries have not been fully established. The principles apply, but the practical application is still in flux. My MBA concentration was values-based leadership, and it’s an area of my professional career that I take seriously. Thanks to Professor Fiorelli and the Williams College of business at Xavier, I had the chance to study firsthand the devastation that ethical lapses in leadership can cause. This is a concern that I continue to have. It pains me to see AI used to further dark UX patterns, fraud, and scams. It’s also part of why you don’t see me hyping AI silver bullets on this platform. Instead, I talk in experiments and hypotheses and practical experience, because I don’t want to misrepresent myself or Launch Scout. Everyone in this industry is still figuring this out. Anyone who tells you otherwise deserves some extra scrutiny.
+
+[Original LinkedIn post](https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7340490572782063616)
