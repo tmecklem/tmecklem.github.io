@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Here's a li'l peek at a slide from our real-time web application talk. We've embedded #LiveView m..."
+title: "Here's a li'l peek at a slide from our real-time web application talk. We've embedded #LiveView mini-apps within our talk slides, so giving interactive examples of problems and solutions will be _inside the presentation_. It's going to be awesome!"
 date: 2022-10-18 14:13:09
 categories: long-form
 tweet_id: "1582374228594397184"

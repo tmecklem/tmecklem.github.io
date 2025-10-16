@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This was a fun (and a bit unnerving) talk to give! I walked up to give the talk with code that ju..."
+title: "This was a fun (and a bit unnerving) talk to give! I walked up to give the talk with code that just didn't quite work how I knew it should from our work in past meetups. But the wisdom of the Ruby mob helped push it across at the end. What a great group!"
 date: 2022-11-21 16:31:07
 categories: long-form
 tweet_id: "1594730133977722881"

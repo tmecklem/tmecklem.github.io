@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Me: \"Make sure mom puts that in Evernote.\"
+title: "Me: \"Make sure mom puts that in Evernote.\" H: \"What's an ever note?\" A: \"A note that lasts forever.\" H (walking away): \"very funny...\""
 H: \"What's an ever note?\"
 A: \"A note that lasts forever.\"
 H (walking away): \"very funny...\""Make sure mom puts that in Evernote.\""
